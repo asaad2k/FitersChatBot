@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699465922676",
+    "project_id": "smart-ai-50798",
+    "storage_bucket": "smart-ai-50798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699465922676:android:f5e5a3e821464d16af3921",
+        "android_client_info": {
+          "package_name": "com.example.smartgptmain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAreADlCuulyRkB4VITgJdTLVyP-hJTH78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
