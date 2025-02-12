@@ -1,6 +1,6 @@
 # FitersChatBot
 
-A new Flutter project.
+Graduation Project.
 
 ## Getting Started
 
