@@ -12,7 +12,7 @@ FitersChatBot is an AI-driven chatbot developed to improve student interactions 
 Include images of the chatbot interface:  
 ![Home Page](https://github.com/asaad2k/FitersChatBot/blob/master/FitersChatBotPics/HomePage.png?raw=true)  
 ![Chat Page](https://github.com/asaad2k/FitersChatBot/blob/master/FitersChatBotPics/ChatPage.png?raw=true)  
-![Profile Page](assets/profile_page.png)  
+![Profile Page](https://github.com/asaad2k/FitersChatBot/blob/master/FitersChatBotPics/ProfilePage.png?raw=true)  
 
 Make sure you upload your images inside the **assets/** folder in your GitHub repository.
 
